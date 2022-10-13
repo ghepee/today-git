@@ -5,3 +5,7 @@ h1{
 form{
     background-color: red;
 }
+img{
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
